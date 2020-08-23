@@ -1,2 +1,2 @@
 # form-validation-js
-live ([https://form-validation-js.vercel.app/])
+live https://form-validation-js.vercel.app/
